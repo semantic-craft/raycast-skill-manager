@@ -104,14 +104,14 @@
   "dependencies": {
     "@raycast/api": "^1.79.0",
     "@raycast/utils": "^2.2.5",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^5.2.2"
   },
   "devDependencies": {
-    "@raycast/eslint-config": "^1.0.11",
+    "@raycast/eslint-config": "^2.2.0",
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^20.11.30",
     "@types/react": "^19.0.0",
-    "eslint": "^8.57.0",
+    "eslint": "^10.7.0",
     "prettier": "^3.2.5",
     "typescript": "^5.4.3",
     "vitest": "^3.2.6"

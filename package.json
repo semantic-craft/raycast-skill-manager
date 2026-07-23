@@ -123,5 +123,10 @@
     "fix-lint": "ray lint --fix",
     "test": "vitest run",
     "test:watch": "vitest"
+  },
+  "overrides": {
+    "@typescript-eslint/typescript-estree": {
+      "minimatch": "^9.0.7"
+    }
   }
 }
